@@ -26,7 +26,7 @@
 ```bash
 mkdir -p ~/.claude/skills/sibian-chang
 curl -o ~/.claude/skills/sibian-chang/SKILL.md \
-  https://raw.githubusercontent.com/sanhelaoli/sibian-chang-skill/main/SKILL.md
+  https://raw.githubusercontent.com/sanhechuanmei-stack/sibian-chang-skill/main/SKILL.md
 ```
 
 2. 重启 Claude Code，skill 自动生效。
